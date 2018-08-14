@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Toucher-F/node-advance#readme",
   "dependencies": {
     "express": "^4.16.3",
-    "node-gyp": "^3.8.0"
+    "node-gyp": "^3.8.0",
+    "webworker-threads": "^0.7.16"
   }
 }
